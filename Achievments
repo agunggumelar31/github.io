@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Agung Gumelar - Achievments</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div id="sidebar">
+            <div class="toggle-button" onclick="toggleSidebar()">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="photo"><img src="./img/Foto.jpg" alt="AgungG"></div>
+            <h4 class="name">Agung GumelarH</h4>
+            <ul>
+                <li><a href="index.html">Profile</a></li>
+                <li><a href="education.html">Education</a></li>
+                <li><a href="achievments.html">Achievments</a></li>
+            </ul>
+        </div>
+        <div id="profile">
+            <h1 class="title">ACHIEVMENTS</h1>
+            <h2>Achievments &amp; Charter</h2>
+            <ul class="">
+                <li class="place">Bandung, 2016</li>
+                <li class="reward">Participant of CCA (Cimahi Creative Association) 2016s</li>
+                <li class="place">Garut, 2017</li>
+                <li class="reward">Participant Of Q'illa Komputer (Hadware Computer) 2017</li>
+                <li class="place">Garut, 2018</li>
+                <li class="reward">Particpant BLK (Perangkat Keras Seluler) 2018</li>
+                <li class="place">Jakarta, 2020</li>
+                <li class="reward">Participant of BDI(Balai Dilat Industi) 2020</li>
+            </ul>
+        </div>
+        
+        <div id="footer">
+            <p class="footer-text">Copyright © Agung Gumelar 2020</p> 
+        </div>            
+    </div>
+    <script src="./js/index.js"></script>
+
+</body></html>
